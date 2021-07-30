@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ToDoList_app</string>
+    <string name="Tasks">Tasks</string>
+    <string name="add_new_task">add new task</string>
+    <string name="add_your_task">pleas add your task  </string>
+    <string name="add_task">task</string>
+    <string name="dialog_button_Cancel">Cancel</string>
+    <string name="dialog_button_save">save Task</string>
+    <string name="to_do_list_splash"> to do list </string>
+    <string name="sample_task">This is a sample task </string>
+    <string name="title">Title</string>
+    <string name="dialog_add_title">Title</string>
+    <string name="date">date</string>
+
+</resources>
